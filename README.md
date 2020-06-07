@@ -39,5 +39,5 @@
       
       
 [1]:https://github.com/KR1470R/MyVimConfig#install-vim--vandle
-[2]:https://github.com/KR1470R/MyVimConfig#Including_plugin
+[2]:https://github.com/KR1470R/MyVimConfig#install-myconfig
 [3]:https://github.com/KR1470R/MyVimConfig#Reinstall_&&_Clear_VIM
