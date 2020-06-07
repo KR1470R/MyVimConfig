@@ -1,9 +1,9 @@
 # Patch for vim.
 
 ## Documentation content
-1. [Installing requiments][1]
-2. [Including plugin][2]
-3. [Reinstall && Clear VIM][3]
+1. [Install VIM && Vandle][1]
+2. [Install MyConfig][2]
+3. [Reinstall VIM && Clear all shits of VIM][3]
 
 ## Install VIM && Vandle
 * Install Vim
