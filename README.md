@@ -1,5 +1,8 @@
 # Patch for vim.
 
+## Preview
+<img src="vim.png" width=700>
+
 ## Documentation content
 1. [Install VIM && Vandle][1]
 2. [Install MyConfig][2]
